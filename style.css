@@ -1,0 +1,29 @@
+*{
+    color: rgb(11, 47, 81);
+}
+h1{
+    text-align: center;
+    margin-top: 60px;
+}
+div{
+    border: 2px solid whitesmoke;
+    height: 260px;
+    width: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    box-shadow: 8px 10px 10px rgba(20,60,100);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    margin-top:30px ;
+    border: none;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: rgba(300,150,20);
+}
